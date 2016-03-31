@@ -1,0 +1,51 @@
+bin/
+Backup/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.vshost*
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+ipch/
+obj/
+Ankh.NoLoad
+UpgradeLog.XML
+UpgradeLog.htm
+_UpgradeReport_Files/
+publish/
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+/CrmTests/bin/Debug
+
+*.publish.xml
